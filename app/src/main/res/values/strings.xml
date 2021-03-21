@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">p2pChat</string>
+    <string name="write_a_message">Write a message</string>
+    <string name="desired_ip">Desired Ip:</string>
+    <string name="desired_port">Desired Port:</string>
+    <string name="connect">Connect</string>
+    <string name="enter_chat_thread">Enter Chat Thread</string>
+    <string name="second_entrance">Please, you must enter the chat thread second, after the server creator.</string>
+    <string name="enter_port_number">Enter Port Number:</string>
+    <string name="start_server">Start Server</string>
+    <string name="first_entrance">Please, you must enter the chat thread before the other connector.</string>
+    
+    <string-array name="backgroundImages">
+        <item>Background 1</item>
+        <item>Background 2</item>
+        <item>Background 3</item>
+    </string-array>
+    
+</resources>
